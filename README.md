@@ -49,5 +49,5 @@ https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 ## Author
 Shivganga Shejol
-Email:shivgangashejol@gmail.com
-LinkedIn: linkedin.com/in/shivgangashejol
+_ Email:shivgangashejol@gmail.com
+- LinkedIn: linkedin.com/in/shivgangashejol
