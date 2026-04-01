@@ -38,8 +38,8 @@ https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 - Streamlit
 
 ## Model Performance
-Accuracy - 97.67%
-Precision- 100%
+- Accuracy - 97.67%
+- Precision- 100%
 
 ## Future Improvements
 - Use deep learning models such as LSTM or BERT
